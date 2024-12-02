@@ -24,7 +24,7 @@ To use the provided development environment, you'll first need to install and la
 
 See `package.json` for other available scripts you might want to use during development, like linting and testing.
 
-When you're ready, open [a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) with the suggested changes.
+Please join open [a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) with the suggested changes.
 
 ## Testing
 
